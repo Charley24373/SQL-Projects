@@ -1,4 +1,4 @@
-*Just import the file to a new database and you can see all the tables, and the database*
+*Just import the Robinhood.sql file to a new database and you can see all the tables, and the database*
 
 This is just a simple project, where I created a database to show all of my investments within Robinhood.
 I created some tables to show the average price, percentage change, if the change was positive or negative, and ticker symbol for each company.
